@@ -8,7 +8,6 @@ try:
       print(f"{num} is Even")
 except ValueError:
    print("Enter only INTEGER that is ONLY NUMBER")
-try: 
 
 num = int(input("Enter a number: "))
  
